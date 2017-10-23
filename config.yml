@@ -36,4 +36,4 @@ homebrew_cask_apps:
   - dotnet
  
  # Glob pattern to ansible task files to run after all other tasks are finished.
-post_provision_tasks: ["~/Documents/code/macbook_setup/ansible-tasks/*.yml"]
+post_provision_tasks: ["custom-ansible-tasks/*.yml"]
