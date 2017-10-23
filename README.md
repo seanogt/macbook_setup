@@ -1,4 +1,4 @@
-Go to the following site and follow the instructions: https://github.com/geerlingguy/mac-dev-playbook
+Go to the following site and follow the instructions: [Geerlinggy's mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook)
 
 The config.yml file contains all the applications installed on my macbook pro. 
 
