@@ -2,7 +2,7 @@ Go to the following site and follow the instructions: [Geerlinggy's mac-dev-play
 
 The config.yml file contains all the applications installed on my macbook pro. 
 
-Create the following symlinks:
+Create the following symlinks in the macbook_dev_playbook directory (repos need to be at the same level):
 
 `ln -s ../macbook_setup/config.yml config.yml`
 
