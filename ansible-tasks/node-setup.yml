@@ -1,0 +1,5 @@
+---
+   - name: install node bits and pieces
+     shell: "{{ item }}"
+     with_items:
+         - npm install -g yo grunt-cli bower generator-karma generator-angular generator-angular-fullstack

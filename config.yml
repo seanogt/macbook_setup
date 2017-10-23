@@ -1,0 +1,39 @@
+#config used to automate my development environment - https://github.com/geerlingguy/mac-dev-playbook
+
+configure_dotfiles: no
+configure_sudoers: no
+configure_terminal: no
+configure_osx: no
+
+homebrew_installed_packages:
+  # - ansible # Installed via Pip.
+  - bash-completion
+  - chromedriver
+  - git
+  - node
+  - nvm
+
+homebrew_cask_apps:
+  - docker
+  - dropbox
+  - 1password
+  - google-chrome
+  - slack
+  - sublime-text
+  - visual-studio-code
+  - evernote
+ # - microsoft-office #doesn’t work
+  - kodi
+  - ipvanish-vpn
+ # - remote-desktop-connection #disnae work either
+  - sizeup
+  - vlc
+ # - telegram #disnae work
+  - soundcloud-downloader
+  - skype
+  - vmware-fusion
+  - spotify
+  - dotnet
+ 
+ # Glob pattern to ansible task files to run after all other tasks are finished.
+post_provision_tasks: ["~/Documents/code/macbook_setup/ansible-tasks/*.yml"]

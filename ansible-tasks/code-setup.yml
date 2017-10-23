@@ -1,0 +1,10 @@
+---
+   - name: install code c sharp plugin
+     shell: "{{ item }}"
+     with_items:
+        - code --install-extension ms-vscode.csharp
+        - code --install-extension dbaeumer.vscode-eslint
+        - code --install-extension christian-kohler.path-intellisense
+        - code --install-extension christian-kohler.npm-intellisense
+        - code --install-extension xabikos.JavaScriptSnippets
+        - code --install-extension DotJoshJohnson.xml
