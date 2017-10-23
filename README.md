@@ -5,6 +5,7 @@ The config.yml file contains all the applications installed on my macbook pro.
 Create the following symlinks:
 
 `ln -s ../macbook_setup/config.yml config.yml`
+
 `ln -s ../macbook_setup/custom-ansible-tasks/ custom-ansible-tasks`
 
 Run ansible-playbook:
