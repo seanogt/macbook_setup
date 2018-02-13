@@ -10,7 +10,7 @@ Create the following symlinks in the macbook_dev_playbook directory (repos need 
 
 Run ansible-playbook:
 
-`main.yml -i inventory -K from the mac-dev-playbook directory`
+`ansible-playbook main.yml -i inventory -K from the mac-dev-playbook directory`
 
 The macdefaults.sh script can be run separately as a standalone bash script (for now!).
 

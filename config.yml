@@ -34,6 +34,7 @@ homebrew_cask_apps:
   - vmware-fusion
   - spotify
   - dotnet
+  - intellij-idea-ce
  
  # Glob pattern to ansible task files to run after all other tasks are finished.
 post_provision_tasks: ["custom-ansible-tasks/*.yml"]
