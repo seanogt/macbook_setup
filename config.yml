@@ -12,6 +12,7 @@ homebrew_installed_packages:
   - git
   - node
   - nvm
+  - kotlin
 
 homebrew_cask_apps:
   - docker
@@ -35,7 +36,7 @@ homebrew_cask_apps:
   - spotify
   - dotnet
   - intellij-idea-ce
-  - kotlin
+ 
  
  # Glob pattern to ansible task files to run after all other tasks are finished.
 post_provision_tasks: ["custom-ansible-tasks/*.yml"]
