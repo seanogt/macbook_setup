@@ -8,3 +8,4 @@
         - code --install-extension christian-kohler.npm-intellisense
         - code --install-extension xabikos.JavaScriptSnippets
         - code --install-extension DotJoshJohnson.xml
+        - code --install-extenstion mathiasfrohlich.kotlin
