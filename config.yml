@@ -13,6 +13,7 @@ homebrew_installed_packages:
   - node
   - nvm
   - kotlin
+  - gradle
 
 homebrew_cask_apps:
   - docker
