@@ -36,6 +36,7 @@ homebrew_cask_apps:
   - vmware-fusion
   - spotify
   - dotnet
+  - dotnet-sdk
   - intellij-idea-ce
  
  
