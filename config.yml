@@ -38,7 +38,7 @@ homebrew_cask_apps:
   - dotnet
   - dotnet-sdk
   - intellij-idea-ce
-  - fiddler
+  - postman
  
  
  # Glob pattern to ansible task files to run after all other tasks are finished.
