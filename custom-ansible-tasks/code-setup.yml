@@ -15,6 +15,7 @@
         - code --install-extension rest-client
         - code --install-extension ms-azuretools.vscode-azureappservice
         - code --install-extension formulahendry.dotnet-test-explorer
+        - code --install-extension ryanluker.vscode-coverage-gutters
 
 
         
