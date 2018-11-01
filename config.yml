@@ -15,6 +15,7 @@ homebrew_installed_packages:
   - kotlin
   - gradle
   - mitmproxy
+  - mongodb
 
 homebrew_cask_apps:
   - docker
