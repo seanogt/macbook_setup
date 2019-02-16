@@ -12,7 +12,7 @@
         - code --install-extension joshwong.vscode-jmespath
         - code --install-extension mohsen1.prettify-json
         - code --install-extension richie5um2.vscode-statusbar-json-path
-        - code --install-extension rest-client
+        - code --install-extension humao.rest-client
         - code --install-extension ms-azuretools.vscode-azureappservice
         - code --install-extension formulahendry.dotnet-test-explorer
         - code --install-extension ryanluker.vscode-coverage-gutters
