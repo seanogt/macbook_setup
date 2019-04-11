@@ -17,6 +17,7 @@
         - code --install-extension formulahendry.dotnet-test-explorer
         - code --install-extension ryanluker.vscode-coverage-gutters
         - code --install-extension donjaymanne.githistory
+        - code --install-extension ms-vsliveshare.vsliveshare
 
 
 
